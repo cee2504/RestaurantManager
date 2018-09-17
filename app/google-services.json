@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "833938691561",
+    "firebase_url": "https://restaurantmanager-19e99.firebaseio.com",
+    "project_id": "restaurantmanager-19e99",
+    "storage_bucket": "restaurantmanager-19e99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833938691561:android:d10147623dfdf96d",
+        "android_client_info": {
+          "package_name": "com.example.cee.restaurantmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833938691561-bvtr3t5u2b94rjaqamircvopu2mdtmlm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cee.restaurantmanager",
+            "certificate_hash": "8086fc6b70f911c9c1a5eb70effbb9a7e26cc17c"
+          }
+        },
+        {
+          "client_id": "833938691561-tf9cv5av13ek1sd9p7l70h6e891n5ue2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP9K_KN8ByoEVqa9E42d5BO4PRDZ48-lw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833938691561-tf9cv5av13ek1sd9p7l70h6e891n5ue2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

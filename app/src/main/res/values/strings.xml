@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RestaurantManager</string>
+
+    <string-array name="numbers">
+        <item>020</item>
+        <item>021</item>
+        <item>022</item>
+    </string-array>
+
+    <string-array name="tables">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+    </string-array>
+    <string name="title_activity_view_by_table">ViewByTable</string>
+
+
+</resources>
